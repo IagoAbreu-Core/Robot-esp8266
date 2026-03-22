@@ -1,11 +1,11 @@
 # Sistema Robótico Móvel com Comunicação UDP e RTOS
 
-Desenvolvimento de um robô móvel integrado com braço robótico com 4 servos sg90 e motores dc para se mover. O projeto foca em sistemas embarcados de baixa latência e controle remoto via wifi com peças de baixo custo.
+Desenvolvimento de um robô móvel equipado com um braço robótico de 4 graus de liberdade (servos SG90) e motores DC para tração. O foco do projeto foi a criação de um sistema embarcado de baixa latência com controle remoto via Wi-Fi utilizando componentes de baixo custo.
 
 ![Robot Imagen](./media/imagen_2.jpeg)
 
 ## Ferramentas usadas
-Um computador com sistema Debian com sistema virtualização com pyenv para rodar python3.12 sem dar problema com sistema e com python3.12 e podere usar [ESP8266_RTOS_SDK](https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/index.html) que foi usado para programar esp8266
+Utilizei um sistema Debian com pyenv para gerenciar o Python 3.12 de forma isolada, evitando conflitos com o sistema operacional e garantindo a compatibilidade com as ferramentas de build do SDK. [ESP8266_RTOS_SDK](https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/index.html) que foi usado para programar esp8266
 
 ### Destaques Técnicos:
 
