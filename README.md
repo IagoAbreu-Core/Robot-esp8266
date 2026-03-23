@@ -5,7 +5,7 @@ Desenvolvimento de um robô móvel equipado com um braço robótico de 4 graus d
 ![Robot Imagen](./media/imagen_2.jpeg)
 
 ## Ferramentas Utilizadas
-Ambiente de Desenvolvimento: Sistema Debian com pyenv para gerenciamento isolado do Python 3.12, garantindo compatibilidade com as ferramentas de build do SDK sem interferir no sistema operacional.
+  - Ambiente de Desenvolvimento: Sistema Debian com pyenv para gerenciamento isolado do Python 3.12, garantindo compatibilidade com as ferramentas de build do SDK sem interferir no sistema operacional.
   - SDK: [ESP8266_RTOS_SDK](https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/index.html), utilizado para a programação do ESP8266 em ambiente multitarefa.
 
 ### Destaques Técnicos:
